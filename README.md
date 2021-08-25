@@ -13,6 +13,8 @@ My name is Shivam Shukla, I'am currently a final year student at Institute of Te
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Java, JavaScript, Python,
 
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHivam21082000&show_icons=true&theme=radical)
+
 
 HAVE A GREAT DAY!!
 
