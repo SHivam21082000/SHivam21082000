@@ -4,5 +4,5 @@ My name is Shivam Shukla, I'am currently a final year student at Institute of Te
 
 [![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHivam21082000)](https://github.com/anuraghazra/github-readme-stats)
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHivam2108000&show_icons=true)
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHivam21082000&show_icons=true)
 
