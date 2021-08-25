@@ -14,6 +14,7 @@ My name is Shivam Shukla, I'am currently a final year student at Institute of Te
 -  ⚡ Languages: Java, JavaScript, Python,
 
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHivam21082000&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHivam21082000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 HAVE A GREAT DAY!!
