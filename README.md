@@ -1,6 +1,6 @@
 # SHIVAM SHUKLA
 
-[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivamshukla752@gmail.com)](mailto:kraghav123@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-shivamshukla752@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivamshukla752@gmail.com)](mailto:kraghav123@gmail.com)
 
 
 ## Hi 👋, 
@@ -12,6 +12,7 @@ My name is Shivam Shukla, I'am currently a final year student at Institute of Te
 - 💬 Ask me about: tech, memes, football
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Java, JavaScript, Python,
+
 
 HAVE A GREAT DAY!!
 
@@ -34,5 +35,5 @@ Here are some ideas to get you started:
 -->
 
 -----
-)
+
 
